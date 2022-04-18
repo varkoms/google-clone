@@ -9,5 +9,5 @@ Google Clone - HTML and CSS Practical Course Project of { Platzi }
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [google-clone](https://github.com/varkoms/google-clone)
 
 # License
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT)
+google-clone is released under the [MIT License](https://opensource.org/licenses/MIT)
 
