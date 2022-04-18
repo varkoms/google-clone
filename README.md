@@ -1,5 +1,5 @@
 # google-clone
-Google Clone - Proyecto del Curso Practico de HTML y CSS de { Platzi }
+Google Clone - HTML and CSS Practical Course Project of { Platzi }
 
 # Important
 *This package is only for educational purposes*
